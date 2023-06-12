@@ -23,5 +23,24 @@ https://cn-hblf-ct-01-12.bilivideo.com/live-bvc/984109/live_1388514638_9387369_b
 https://cn-jsyz-ct-03-24.bilivideo.com/live-bvc/661921/live_2012775199_40421299/index.m3u8?expires=1686575430&len=0&oi=730495783&pt=h5&qn=10000&trid=10075c0c4456935542c79354d90c08616dbc&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=c48810abdf111665a13e8c0020fb288f&sk=fdabd7a10bd6d396dcb8744a97ff118c&flvsk=657e1ac1e010c75aa8c2a995fb0e48a5&p2p_type=0&sl=1&free_type=0&mid=0&sid=cn-jsyz-ct-03-24&chash=1&bmt=1&sche=ban&bvchls=1&score=5&pp=rtmp&source=onetier&trace=108d&site=f7c1cd01d3aad0c1969899aa2c86171c&order=1
 
 
+
 #EXTINF:-1 tvg-name="许嵩音乐馆" tvg-logo="" group-title="douyin",许嵩音乐馆
 http://pull-hls-l6.douyincdn.com/radio/stream-401414133117091875/index.m3u8
+
+
+#EXTINF:-1 tvg-name="罗永浩直播间" tvg-logo="" group-title="douyin",罗永浩直播间
+http://pull-hls-f1.douyincdn.com/gamereplay/stream-113184018632802992_hd/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="爽儿有氧健身" tvg-logo="" group-title="douyin",爽儿有氧健身
+http://pull-hls-l26.douyincdn.com/third/stream-113183871460966886.m3u8?expire=64904d67&sign=528bf3bab132e5697d35fa01286e694e
+
+
+#EXTINF:-1 tvg-name="菲尔唱歌" tvg-logo="" group-title="douyin",菲尔唱歌
+http://pull-hls-f26.douyincdn.com/third/stream-113183871722848939_hd.m3u8?expire=64904def&sign=8b799d92e4a17a292dae243229fbbf9d
+
+
+
+#EXTINF:-1 tvg-name="畊练团" tvg-logo="" group-title="douyin",畊练团
+http://pull-hls-f26.douyincdn.com/third/stream-113183756430607019_hd.m3u8?expire=64904e3d&sign=9f4000df25a0b92faa1e925f9a632533
