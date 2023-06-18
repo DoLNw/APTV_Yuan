@@ -93,9 +93,11 @@ http://pull-hls-f26.douyincdn.com/third/stream-113183756430607019_hd.m3u8?expire
 https://hs.flv.huya.com/src/2381472418-2381472418-10228346151636041728-4763068292-10057-A-0-1-imgplus.flv?wsSecret=089f4a681265f50fc9ac1fc559b9ed28&wsTime=648b1349&u=0&seqid=16867496297650096&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,264_12000,&t=103
 
 
+#EXTINF:-1 tvg-name="maybe" tvg-logo="" group-title="huya",maybe
+http://live.aptvapp.com/live/huya/211888
+
+
 ######################################*######################################
 #EXTINF:-1 tvg-name="yyf" tvg-logo="" group-title="douyu",yyf
-http://tx2play1.douyucdn.cn/live/9999rMfVyoBTjV0x.xs?uuid=
+http://vplay1a.douyucdn.cn/live/9999rMfVyoBTjV0x.flv?uuid=
 
-#EXTINF:-1 tvg-name="Zhou陈晓" tvg-logo="" group-title="douyu",Zhou陈晓
-http://tx2play1.douyucdn.cn/live/88660riTlb3cXgB6.xs?uuid=
