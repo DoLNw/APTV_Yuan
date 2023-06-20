@@ -59,9 +59,11 @@ https://cn-hblf-ct-01-15.bilivideo.com/live-bvc/411864/live_335899603_20556272_b
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="" group-title="bilibili",蜡笔小新
 https://cn-hblf-ct-01-11.bilivideo.com/live-bvc/935659/live_20805521_62536064_bluray/index.m3u8?expires=1686578549&len=0&oi=730495783&pt=h5&qn=10000&trid=1007dc1a8677d993438798056b63b89b4df8&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=35d8b7b9bce54c7479442533e25ffbc7&sk=8902e9ba4f4c8ef24395013bbe65dba8&flvsk=df739001013e4655328c9a3da73fc4ac&p2p_type=0&sl=3&free_type=0&mid=0&sid=cn-hblf-ct-01-11&chash=1&bmt=1&sche=ban&bvchls=1&score=10&pp=rtmp&source=onetier&trace=885&site=dd91adc4b174277ed1dea7129e26a65b&order=1
 
+
 ######################################*######################################
 
-
+#EXTINF:-1 tvg-name="刘畊宏" tvg-logo="" group-title="douyin",刘畊宏
+http://pull-hls-f1.douyincdn.com/third/stream-113230142891098795_hd/playlist.m3u8?keeptime=00093a80&wsSecret=f8c832b453c1098e801f0dce6e2a1d09&wsTime=64918eeb
 
 
 #EXTINF:-1 tvg-name="许嵩音乐馆" tvg-logo="" group-title="douyin",许嵩音乐馆
@@ -88,16 +90,11 @@ http://pull-hls-f26.douyincdn.com/third/stream-113183756430607019_hd.m3u8?expire
 ######################################*######################################
 
 
-
-#EXTINF:-1 tvg-name="maybe" tvg-logo="" group-title="huya",maybe
-#EXTINF:-1 tvg-name="maybe" tvg-logo="" group-title="huya",maybe
-https://hs.hls.huya.com/src/2381472418-2381472418-10228346151636041728-4763068292-10057-A-0-1-imgplus.hls?wsSecret=089f4a681265f50fc9ac1fc559b9ed28&wsTime=648b1349&u=0&seqid=16867496297650096&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,264_12000,&t=103
-
 #EXTINF:-1 tvg-name="maybe" tvg-logo="" group-title="huya",maybe
 http://live.aptvapp.com/live/huya/211888
 
 
 ######################################*######################################
 #EXTINF:-1 tvg-name="yyf" tvg-logo="" group-title="douyu",yyf
-http://vplay1a.douyucdn.cn/live/9999rMfVyoBTjV0x.flv?uuid=
+http://live.aptvapp.com/live/douyu/9999
 
